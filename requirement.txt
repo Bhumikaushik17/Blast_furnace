@@ -1,0 +1,19 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+shap
+joblib
+
+# Deployment (Web App)
+streamlit
+
+# Excel Support
+openpyxl
+
+# Optional: For Jupyter/Colab
+notebook
