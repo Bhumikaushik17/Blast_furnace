@@ -96,6 +96,48 @@ blast_furnace/
 - **Streamlit** → Web App for Deployment  
 
 ---
+🚀 How to Run
+1️⃣ Install Dependencies
+pip install -r requirements.txt
+
+2️⃣ Run the Streamlit App
+streamlit run app/app.py
+
+3️⃣ Use the Interface
+
+Enter parameter values
+
+Get Throughput and Fuel Rate predictions
+
+View recommendations for optimization
+
+📊 Key Outputs
+
+Correlation Heatmap → Shows relationships between variables
+
+Feature Importance Plots → Parameters affecting throughput & fuel rate
+
+SHAP Summary Plots → Explainable AI insights
+
+Scenario Tables → Recommendations for parameter tuning
+
+Streamlit App → Interactive prediction tool
+
+🏆 Results
+
+Identified Top 3 Parameters influencing throughput & fuel rate
+
+Simulated scenarios → Achieved higher throughput with lower fuel consumption
+
+Built a user-friendly Web App for real-time decision support
+
+🔮 Future Enhancements
+
+Integrate real-time sensor data from blast furnace
+
+Add Reinforcement Learning for auto-parameter tuning
+
+Deploy on cloud platforms for remote access
 
 ## 📈 Workflow Diagram  
 
